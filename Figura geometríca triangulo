@@ -1,0 +1,38 @@
+points
+[
+  {"point": [242, 605], "label": "green"},
+  {"point": [375, 568], "label": "blue"},
+  {"point": [454, 658], "label": "green"},
+  {"point": [508, 557], "label": "pink"},
+  {"point": [604, 518], "label": "yellow"},
+  {"point": [422, 382], "label": "green"},
+  {"point": [700, 375], "label": "green"},
+  {"point": [354, 457], "label": "white"},
+  {"point": [472, 457], "label": "white"},
+  {"point": [566, 479], "label": "white"}
+]
+2D[
+  {"box_2d": [114, 586, 373, 786], "label": "green pyramid"},
+  {"box_2d": [347, 442, 572, 655], "label": "yellow pyramid"},
+  {"box_2d": [435, 314, 610, 467], "label": "yellow pyramid"},
+  {"box_2d": [381, 681, 597, 895], "label": "blue pyramid"},
+  {"box_2d": [564, 616, 797, 835], "label": "green pyramid"},
+  {"box_2d": [619, 427, 822, 618], "label": "yellow pyramid"},
+  {"box_2d": [546, 198, 775, 397], "label": "yellow pyramid"},
+  {"box_2d": [564, 795, 730, 937], "label": "green pyramid"},
+  {"box_2d": [672, 832, 854, 998], "label": "green pyramid"},
+  {"box_2d": [720, 305, 841, 467], "label": "yellow pyramid"}
+]
+3D
+[
+  {"label": "pyramid", "box_3d": [0.02,0.86,0.01,0.09,0.09,0.11,58,-44,-88]},
+  {"label": "pyramid", "box_3d": [-0.07,0.95,-0.05,0.09,0.11,0.1,110,-44,-88]},
+  {"label": "pyramid", "box_3d": [0.08,0.97,-0.03,0.09,0.11,0.11,110,-44,-88]},
+  {"label": "pyramid", "box_3d": [0.21,0.96,-0.05,0.09,0.11,0.11,110,-44,-88]},
+  {"label": "pyramid", "box_3d": [-0.23,0.95,-0.06,0.09,0.11,0.11,110,-44,-88]},
+  {"label": "pyramid", "box_3d": [0.28,0.86,-0.01,0.09,0.09,0.11,58,-44,-88]},
+  {"label": "pyramid", "box_3d": [0.05,0.77,0.14,0.09,0.09,0.11,58,-44,-88]},
+  {"label": "pyramid", "box_3d": [-0.13,0.85,0.07,0.09,0.09,0.11,58,-44,-88]},
+  {"label": "pyramid", "box_3d": [0.19,0.81,0.1,0.09,0.09,0.11,58,-44,-88]},
+  {"label": "pyramid", "box_3d": [-0.28,0.86,0.01,0.09,0.09,0.11,58,-44,-88]}
+]
